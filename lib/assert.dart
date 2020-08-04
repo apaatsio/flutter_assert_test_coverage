@@ -1,0 +1,3 @@
+void functionWithAssert() {
+  assert(true);
+}
